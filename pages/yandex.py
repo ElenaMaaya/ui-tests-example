@@ -3,9 +3,9 @@
 
 import os
 
-from pages.base import WebPage
-from pages.elements import WebElement
-from pages.elements import ManyWebElements
+from ui_tests_example.pages.base import WebPage
+from ui_tests_example.pages.elements import WebElement
+from ui_tests_example.pages.elements import ManyWebElements
 
 
 class MainPage(WebPage):
